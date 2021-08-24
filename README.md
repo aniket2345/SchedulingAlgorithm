@@ -1,6 +1,6 @@
 IMPORTANT !! It is possible that the project report might be blank when opened on github. If something like this happens, please download the pdf file, and open it on your local machine.
 
-# PRIORITY AND DEADLINE SCHEDULING ALGORITHM
+# Priority and Scheduling Algorithm
 
   In a realistic example of CPU Scheduling, it is often the case that some 
 processes need to be finished before a fixed amount of time. Also, with these 
